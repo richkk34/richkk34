@@ -16,7 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-     
-   ```md
 [![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/richardKonadu/github-readme-stats)
-```
