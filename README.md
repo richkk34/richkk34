@@ -4,7 +4,8 @@
 
 I'm Richard Kwabena Konadu, CEO of Raima Web, Data & Research Solution. I specialize in data science, web development, and research. Skilled in Python, Power BI, and machine learning, I build AI-driven apps and analytics dashboards. Proud projects: Netflix homepage clone, Weather App. Passionate about turning data into insights!
 
-Skills:  REACT / JS / HTML / CSS/ PYTHON/ R/ SPSS/ EVIEWS/ TABLEAU/ POWER BI/ LATEX/ MACHINE LEARNING
+### Skills:  
+REACT / JS / HTML / CSS/ PYTHON/ R/ SPSS/ EVIEWS/ TABLEAU/ POWER BI/ LATEX/ MACHINE LEARNING
 
 - 🔭 I’m currently working on new data-driven projects and also building an e-commerce website 
 - 🌱 I’m currently learning advanced AI, cloud computing and cybersecurity 
